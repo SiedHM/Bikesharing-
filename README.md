@@ -29,7 +29,7 @@ The figure below shows the gender disaggregation of checkout times. For most men
 ![fig-4](https://github.com/SiedHM/Bikesharing-/blob/main/images/checkout%20times_by%20gender.png)
 
 ## Trips by Weekday per hour
-The figure below shows the number of trips on each week days and each hour. As can be seen from this figure, we can observe that the demand for bike riding is high between 5pm to 6pm on Monday, Tuesday and Thursday. The maximum is on Thursday at 6:00pm. Further there is also large demand at 8:00am from Monday to Firday.
+The figure below shows the number of trips on each week days and each hour. As can be seen from this figure, the demand for bike riding is high between 5pm to 6pm on Monday, Tuesday and Thursday. The maximum is on Thursday at 6:00pm. Further there is also large demand at 8:00am from Monday to Firday.
 
 ![fig-5](https://github.com/SiedHM/Bikesharing-/blob/main/images/trips%20by%20weekday%20per%20hour.png)
 
