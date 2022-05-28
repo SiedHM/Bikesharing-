@@ -2,7 +2,7 @@
 Sied Mohamed
 
 # Overview of the project
-Citi Bike is the nation's largest bike share program, with 25,000 bikes and over 1,500 stations across Manhattan, Brooklyn, Queens, the Bronx, Jersey City and Hoboken. Based on the experience in New York city, an investor plans to open a similar bike business in the of city of Des Moines. For this purpose, we want to analyze the age and gender decomposition of the riders, the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week and the number of bike trips for each type of user and gender for each day of the week.
+Citi Bike is the nation's largest bike share program, with 25,000 bikes and over 1,500 stations across Manhattan, Brooklyn, Queens, the Bronx, Jersey City and Hoboken([source like here](https://citibikenyc.com/how-it-works)). Based on the experience in New York city, an investor plans to open a similar bike business in the of city of Des Moines. For this purpose, we want to analyze the age and gender decomposition of the riders, the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week and the number of bike trips for each type of user and gender for each day of the week.
  
 
 
