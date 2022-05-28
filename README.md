@@ -35,5 +35,6 @@ Sied Mohamed
 ## Trips by Weekday and gender
 ![fig-7](https://github.com/SiedHM/Bikesharing-/blob/main/images/trips%20by%20weekday%20and%20gender.png)
 
-
+## Bike Utilization
+![Fig-8](https://github.com/SiedHM/Bikesharing-/blob/main/images/Bike%20Utilization.png)
 
