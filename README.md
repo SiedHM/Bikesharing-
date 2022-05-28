@@ -11,39 +11,39 @@ Citi Bike is the nation's largest bike share program, with 25,000 bikes and over
 The over all results of the project excercise can be seen in [Tabluea](https://public.tableau.com/app/profile/sied.mohamed/viz/NYCBikeRidestrory/NYCBikeRideStory?publish=yes)
 
 ## Number of Bikes By gender
-As can be seen from the figur below, large majority of bike riders are men. Women tend to use less.
+As can be seen from the figure below, large majority of bike riders are men. Women tend to use less.
 
 ![fig-1](https://github.com/SiedHM/Bikesharing-/blob/main/images/number%20of%20bikes%20by%20gender.png)
 
 ## Trip Avarage Duration by age
-The figure below shows the average trip duration by age. From this figure, we can see that younger genetations tend to bike for longer duration than older generation. 
-
+The figure below shows   the average trip duration by age. From this figure, we can see that younger generations tend to bike for longer duration than older generation.
 ![fig-2](https://github.com/SiedHM/Bikesharing-/blob/main/images/Average%20Trip%20Duration.png)
 
 ## Checkout times 
-Figure below shows the number of bikes over the duration of bikes, i.e, time it takes to check out. From this graph, we can see that large proportions of  trip lasted in less than an hour. Bikes are not used for long hours of durations. 
+The figure below shows the number of per hour of bike ride. From this graph, we can see that large proportions of trip lasted in less than an hour. Bikes are not used for long hours of durations.
 ![fig-3](https://github.com/SiedHM/Bikesharing-/blob/main/images/checkout%20times_users.png)
 
 ## Checkout times by gender
-The figure below shows the gender disaagrigation of checkout times. For most men and women, the checkout times or the average duration of biking is for less than an hour.  
+The figure below shows the gender disaggregation of checkout times. For most men and women, the average duration of biking is  less than an hour. However, we can see than a few men are biking more than an hour than women.
+
 ![fig-4](https://github.com/SiedHM/Bikesharing-/blob/main/images/checkout%20times_by%20gender.png)
 
 ## Trips by Weekday per hour
-The figure below shows the number of trips on each week days and each hour. As can be seen from this figure, we can observe that the demand for bike riding is high between 5pm to 6pm on Monday, Tuesday and Thursday. The maxiumn is on Thursdau at 6:00pm. Further, the demand is also large demand from Monday to Friday at 8:00am.
+The figure below shows the number of trips on each week days and each hour. As can be seen from this figure, we can observe that the demand for bike riding is high between 5pm to 6pm on Monday, Tuesday and Thursday. The maximum is on Thursday at 6:00pm. Further there is also large demand at 8:00am from Monday to Firday.
 
 ![fig-5](https://github.com/SiedHM/Bikesharing-/blob/main/images/trips%20by%20weekday%20per%20hour.png)
 
 ## Trips by gender and Weekday per hour
-Figure
+The gender disaggrigted checkout times are also shown in the figure below. This figure is simimar to the above heatmap figure. For both male and female riders, the demand for bike riding is high between 5pm to 6pm on Monday, Tuesday and Thursday. The maximum is on Thursday at 6:00pm. Further there is also large demand at 8:00am from Monday to Firday
 
 ![fig-6](https://github.com/SiedHM/Bikesharing-/blob/main/images/trips%20by%20weekday%20by%20gender.png)
 
 ## Trips by Weekday and gender
+The figure shows two types of bike riders, customers and subscribers.The number of subsecriber type of riders is generally higer than the customer types of riders. In terms of demand for bikes, on the customers side, there is large demand on the weekend, in particular on Saturday. This is more like for leisure. For subscribers, the demand is high on Monday, Tuesday and Thursday. We can generalize that  subscribers demand the bike on weekdays  and customers on weekends. This is generally same for both male and female customers and subscribers. 
+
 ![fig-7](https://github.com/SiedHM/Bikesharing-/blob/main/images/trips%20by%20weekday%20and%20gender.png)
 
-## Bike Utilization
-![Fig-8](https://github.com/SiedHM/Bikesharing-/blob/main/images/Bike%20Utilization.png)
 
 # Summary
-
+The result shows there only smaller demand of females’ bike ride from Citibike company   than male riders. Further, younger age riders, generally, bike for longer duration thank older age biker riders. The demand for the biking is highest on Thursday at 6:00 pm. In general, there is high demand on Monday, Tuesday, Thursday from 5:00 pm to 6:00pm. Subscribers demand the bike mostly from Monday to Friday and customers demand the bike mostly from on Weekends. These implies bike repairment time may need to set during the times were the demand is low( from 12:00 am to 6:00 am)  and  on Weekends as the number of custumer type of rides are smaller than the subscribers.   
 
